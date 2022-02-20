@@ -145,3 +145,4 @@ IP-CIDR,199.190.44.0/24,no-resolve
 IP-CIDR,209.177.94.18/32,no-resolve
 IP-CIDR,202.181.136.0/24,no-resolve
 IP-CIDR,202.226.25.0/24,no-resolve
+IP-CIDR,240.1.1.0/24,no-resolve
