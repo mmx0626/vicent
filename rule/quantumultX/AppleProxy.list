@@ -40,6 +40,6 @@ HOST,np-edge.itunes.apple.com
 HOST,hls.itunes.apple.com
 HOST,hls-amt.itunes.apple.com
 # TestFlight
-HOST,testflight.apple.com,TestFlight
-HOST,beta.apple.com,TestFlight
-host-keyword,testflight,TestFlight
+HOST,testflight.apple.com
+HOST,beta.apple.com
+host-keyword,testflight
