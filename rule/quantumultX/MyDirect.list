@@ -1,0 +1,73 @@
+# 本地/局域网地址
+HOST-SUFFIX, ip6-localHOST,direct
+HOST-SUFFIX, ip6-loopback, direct
+HOST-SUFFIX, local, direct
+HOST-SUFFIX, localHOST,direct
+IP-CIDR,10.0.0.0/8, direct, no-resolve
+IP-CIDR,100.64.0.0/10, direct, no-resolve
+IP-CIDR,127.0.0.0/8, direct, no-resolve
+IP-CIDR,172.16.0.0/12, direct, no-resolve
+IP-CIDR,192.168.0.0/16, direct, no-resolve
+IP6-CIDR,::1/128, direct, no-resolve
+IP6-CIDR,fc00::/7, direct, no-resolve
+IP6-CIDR,fe80::/10, direct, no-resolve
+IP6-CIDR,fd00::/8, direct, no-resolve
+# Router managed 路由器管理域名
+HOST,router.asus.com, direct
+HOST-SUFFIX, hiwifi.com, direct
+HOST-SUFFIX, leike.cc, direct
+HOST-SUFFIX, miwifi.com, direct
+HOST-SUFFIX, my.router, direct
+HOST-SUFFIX, p.to, direct
+HOST-SUFFIX, peiluyou.com, direct
+HOST-SUFFIX, phicomm.me, direct
+HOST-SUFFIX, routerlogin.com, direct
+HOST-SUFFIX, tendawifi.com, direct
+HOST-SUFFIX, zte.home, direct
+HOST-SUFFIX, evannas.top, direct
+HOST,forevan.synology.me, direct
+HOST-SUFFIX, synology.com, direct
+HOST-SUFFIX, fovicen.xyz, direct
+
+# 我的vps及微信部分ip直连
+IP-CIDR,14.215.158.0/24, direct, no-resolve
+IP-CIDR,59.36.89.0/24, direct, no-resolve
+IP-CIDR,114.215.158.0/24, direct, no-resolve
+IP-CIDR,113.96.237.0/24, direct, no-resolve
+IP-CIDR,113.96.202.0/24, direct, no-resolve
+IP-CIDR,113.96.209.0/24, direct, no-resolve
+IP-CIDR,183.3.224.0/24, direct, no-resolve
+IP-CIDR,183.3.234.0/24, direct, no-resolve
+IP-CIDR,103.7.28.0/22, direct, no-resolve
+IP-CIDR,103.238.16.0/23, direct, no-resolve
+IP-CIDR,173.242.120.171/32, direct, no-resolve
+IP-CIDR,198.211.58.210/32, direct, no-resolve
+IP-CIDR,64.27.14.215/32, direct, no-resolve
+IP-CIDR,45.61.164.134/32, direct, no-resolve
+# 微信
+HOST,szlong.weixin.qq.com, direct
+HOST,wxapp.tc.qq.com, direct
+HOST,wx.qq.com.com, direct
+HOST-SUFFIX, weixin.qq.com, direct
+HOST-SUFFIX, qq.com, direct
+HOST-SUFFIX, waze.com, direct
+HOST-SUFFIX, plex.tv, direct
+HOST-SUFFIX, synology.com, direct
+# 中青看点
+HOST,res.youth.cn, direct
+HOST-SUFFIX, youth.cn, direct
+HOST,kandian.wkandian.com, direct
+HOST-SUFFIX, wkandian.com, direct
+HOST-KEYWORD,youth, direct
+# 其他
+HOST-SUFFIX, waze.com, direct
+HOST-SUFFIX, buliang0.tk, direct
+HOST-SUFFIX, plex.tv, direct
+
+# 会员不去广告
+# TencentVideo 腾讯视频
+HOST-SUFFIX,v.smtcdns.com
+HOST-SUFFIX,vv.video.qq.com
+# Youku 优酷
+HOST-SUFFIX,youku.com
+IP-CIDR,106.11.0.0/16,no-resolve

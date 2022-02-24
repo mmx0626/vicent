@@ -1,0 +1,16 @@
+# 内容：Download
+# 数量：20条
+DOMAIN-KEYWORD,aria2
+HOST-SUFFIX,smtp
+USER-AGENT,DownloadService.exe
+USER-AGENT,Folx.exe
+USER-AGENT,NetTransport.exe
+USER-AGENT,Thunder.exe
+USER-AGENT,Transmission.exe
+USER-AGENT,WebTorrent Helper.exe
+USER-AGENT,WebTorrent.exe
+USER-AGENT,Weiyun.exe
+USER-AGENT,aria2c.exe
+USER-AGENT,baidunetdisk.exe
+USER-AGENT,fdm.exe
+USER-AGENT,uTorrent.exe

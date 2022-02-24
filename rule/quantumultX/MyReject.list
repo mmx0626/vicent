@@ -1,0 +1,9 @@
+#中青去广告
+HOST,sdk.1rtb.com,reject
+HOST-SUFFIX,umengcloud.com,reject
+HOST-SUFFIX,umeng.com,reject
+# 单词开屏app去广告
+HOST-SUFFIX,pangolin-sdk-toutiao.com,reject
+HOST-SUFFIX,pglstatp-toutiao.com,reject
+# 录音机去广告
+HOST,googleads.g.doubleclick.net,reject

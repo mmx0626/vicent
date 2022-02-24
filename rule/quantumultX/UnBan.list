@@ -1,0 +1,38 @@
+# Unbreak 白名单 不应该被广告链接的网站
+
+# Epicgames
+HOST-SUFFIX,ol.epicgames.com
+
+# Getui
+HOST-SUFFIX,dizhensubao.getui.com
+
+# Google
+HOST,dl.google.com
+HOST-SUFFIX,googletraveladservices.com
+
+# Mozilla
+HOST-SUFFIX,tracking-protection.cdn.mozilla.net
+
+# Origin
+HOST,origin-a.akamaihd.net
+HOST,xivanalysis.com
+HOST,picanalysis.vivo.com.cn
+
+# Tencent
+HOST,fairplay.l.qq.com
+HOST,livew.l.qq.com
+HOST,vd.l.qq.com
+
+# Strava
+HOST,analytics.strava.com
+
+# Umeng
+HOST,msg.umeng.com
+HOST,msg.umengcloud.com
+
+# Miui 小米
+HOST,tracking.miui.com
+
+# General
+HOST,app.adjust.com
+HOST,bdtj.tagtic.cn
