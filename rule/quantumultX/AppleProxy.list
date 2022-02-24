@@ -12,7 +12,6 @@ HOST,me.apple-dns.net
 HOST,news-events.news.apple-dns.net
 HOST,books.itunes.g.aaplimg.com
 HOST,books-analytics-events.news.apple-dns.net
-HOST,testflight.apple.com
 HOST,books-analytics-events.apple.com
 HOST,amp-api.books.apple.com
 HOST,books.itunes.apple.com
@@ -40,3 +39,7 @@ HOST,play-edge.itunes.apple.com
 HOST,np-edge.itunes.apple.com
 HOST,hls.itunes.apple.com
 HOST,hls-amt.itunes.apple.com
+# TestFlight
+HOST,testflight.apple.com
+HOST,beta.apple.com,TestFlight
+HOST-KEYWORD,testflight,
