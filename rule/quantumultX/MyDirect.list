@@ -28,7 +28,6 @@ HOST-SUFFIX, evannas.top, direct
 HOST,forevan.synology.me, direct
 HOST-SUFFIX, synology.com, direct
 HOST-SUFFIX, fovicen.xyz, direct
-
 # 我的vps及微信部分ip直连
 IP-CIDR,14.215.158.0/24, direct, no-resolve
 IP-CIDR,59.36.89.0/24, direct, no-resolve
@@ -44,6 +43,12 @@ IP-CIDR,173.242.120.171/32, direct, no-resolve
 IP-CIDR,198.211.58.210/32, direct, no-resolve
 IP-CIDR,64.27.14.215/32, direct, no-resolve
 IP-CIDR,45.61.164.134/32, direct, no-resolve
+#优先直连
+host-suffix, jd.com, direct
+host-suffix, taobao.com, direct
+host-suffix, tmall.com, direct
+host-suffix, maxmind.com, direct
+host-suffix, plex.direct, direct
 # 微信
 HOST,szlong.weixin.qq.com, direct
 HOST,wxapp.tc.qq.com, direct
@@ -63,7 +68,6 @@ HOST-KEYWORD,youth, direct
 HOST-SUFFIX, waze.com, direct
 HOST-SUFFIX, buliang0.tk, direct
 HOST-SUFFIX, plex.tv, direct
-
 # 会员不去广告
 # TencentVideo 腾讯视频
 HOST-SUFFIX,v.smtcdns.com
