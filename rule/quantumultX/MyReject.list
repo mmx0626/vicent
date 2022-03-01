@@ -1,3 +1,11 @@
+# 知乎去广告，以下规则的位置越前方越好
+user-agent,AVOS*,reject
+host,sugar.zhihu.com,reject
+host,mqtt.zhihu.com,reject
+host,appcloud2.in.zhihu.com,reject
+host,118.89.204.198,reject
+ip6-cidr,2402:4e00:1200:ed00:0:9089:6dac:96b6/128,reject
+ip-cidr,118.89.204.198/32,reject
 #中青去广告
 HOST,sdk.1rtb.com,reject
 HOST-SUFFIX,umengcloud.com,reject
