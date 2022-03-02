@@ -1,10 +1,9 @@
-# 内容：JD
-# 数量：8条
-HOST-SUFFIX,360buy.com
-HOST-SUFFIX,360buyimg.com
-HOST-SUFFIX,jcloudcs.com
-HOST-SUFFIX,jd.com
-HOST-SUFFIX,jd.hk
-HOST-SUFFIX,jdcloud.com
-HOST-SUFFIX,jdpay.com
-HOST-SUFFIX,paipai.com
+#规则
+host-suffix,360buy.com,FL-JD
+host-suffix,360buyimg.com,FL-JD
+host-suffix,jcloudcs.com,FL-JD
+host-suffix,jd.com,FL-JD
+host-suffix,jd.hk,FL-JD
+host-suffix,jdcloud.com,FL-JD
+host-suffix,jdpay.com,FL-JD
+host-suffix,paipai.com,FL-JD
