@@ -1,29 +1,22 @@
-# NAME: Twitter
-# AUTHOR: blackmatrix7
-# REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-01-18 23:33:29
-# HOST-SUFFIX: 12
-# HOST-KEYWORD: 1
-# IP-CIDR: 8
-# TOTAL: 21
-HOST-SUFFIX,periscope.tv,Twitter
-HOST-SUFFIX,pscp.tv,Twitter
-HOST-SUFFIX,t.co,Twitter
-HOST-SUFFIX,tellapart.com,Twitter
-HOST-SUFFIX,tweetdeck.com,Twitter
-HOST-SUFFIX,twimg.co,Twitter
-HOST-SUFFIX,twimg.com,Twitter
-HOST-SUFFIX,twimg.org,Twitter
-HOST-SUFFIX,twitpic.com,Twitter
-HOST-SUFFIX,twtrdns.net,Twitter
-HOST-SUFFIX,twttr.com,Twitter
-HOST-SUFFIX,vine.co,Twitter
-HOST-KEYWORD,twitter,Twitter
-IP-CIDR,104.244.42.0/21,Twitter
-IP-CIDR,192.133.76.0/22,Twitter
-IP-CIDR,199.16.156.0/22,Twitter
-IP-CIDR,199.59.148.0/22,Twitter
-IP-CIDR,199.96.56.0/21,Twitter
-IP-CIDR,202.160.128.0/22,Twitter
-IP-CIDR,209.237.192.0/19,Twitter
-IP-CIDR,69.195.160.0/19,Twitter
+#规则
+host-suffix,periscope.tv,FL-Twitter
+host-suffix,pscp.tv,FL-Twitter
+host-suffix,t.co,FL-Twitter
+host-suffix,tellapart.com,FL-Twitter
+host-suffix,tweetdeck.com,FL-Twitter
+host-suffix,twimg.co,FL-Twitter
+host-suffix,twimg.com,FL-Twitter
+host-suffix,twimg.org,FL-Twitter
+host-suffix,twitpic.com,FL-Twitter
+host-suffix,twtrdns.net,FL-Twitter
+host-suffix,twttr.com,FL-Twitter
+host-suffix,vine.co,FL-Twitter
+host-keyword,twitter,FL-Twitter
+ip-cidr,104.244.42.0/21,FL-Twitter
+ip-cidr,192.133.76.0/22,FL-Twitter
+ip-cidr,199.16.156.0/22,FL-Twitter
+ip-cidr,199.59.148.0/22,FL-Twitter
+ip-cidr,199.96.56.0/21,FL-Twitter
+ip-cidr,202.160.128.0/22,FL-Twitter
+ip-cidr,209.237.192.0/19,FL-Twitter
+ip-cidr,69.195.160.0/19,FL-Twitter
