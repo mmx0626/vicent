@@ -1,17 +1,11 @@
-# NAME: GitHub
-# AUTHOR: blackmatrix7
-# REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-01-18 23:33:29
-# HOST-KEYWORD: 1
-# HOST-SUFFIX: 9
-# TOTAL: 10
-HOST-SUFFIX,atom.io,GitHub
-HOST-SUFFIX,dependabot.com,GitHub
-HOST-SUFFIX,ghcr.io,GitHub
-HOST-SUFFIX,git.io,GitHub
-HOST-SUFFIX,myoctocat.com,GitHub
-HOST-SUFFIX,npm.community,GitHub
-HOST-SUFFIX,npmjs.com,GitHub
-HOST-SUFFIX,npmjs.org,GitHub
-HOST-SUFFIX,rawgit.com,GitHub
-HOST-KEYWORD,github,GitHub
+#规则
+host-suffix,atom.io,FL-GitHub
+host-suffix,dependabot.com,FL-GitHub
+host-suffix,ghcr.io,FL-GitHub
+host-suffix,git.io,FL-GitHub
+host-suffix,myoctocat.com,FL-GitHub
+host-suffix,npm.community,FL-GitHub
+host-suffix,npmjs.com,FL-GitHub
+host-suffix,npmjs.org,FL-GitHub
+host-suffix,rawgit.com,FL-GitHub
+host-keyword,github,FL-GitHub
