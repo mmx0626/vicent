@@ -1,14 +1,12 @@
-
-# 内容：TikTok
-# 数量：11条
-USER-AGENT, TikTok*
-HOST-KEYWORD, -tiktokcdn-com
-HOST-SUFFIX, byteoversea.com
-HOST-SUFFIX, ibytedtos.com
-HOST-SUFFIX, ipstatp.com
-HOST-SUFFIX, muscdn.com
-HOST-SUFFIX, musical.ly
-HOST-SUFFIX, tik-tokapi.com
-HOST-SUFFIX, tiktok.com
-HOST-SUFFIX, tiktokcdn.com
-HOST-SUFFIX, tiktokv.com
+#规则
+user-agent,TikTok*,FL-TikTok
+host-keyword,-tiktokcdn-com,FL-TikTok
+host-suffix,byteoversea.com,FL-TikTok
+host-suffix,ibytedtos.com,FL-TikTok
+host-suffix,ipstatp.com,FL-TikTok
+host-suffix,muscdn.com,FL-TikTok
+host-suffix,musical.ly,FL-TikTok
+host-suffix,tik-tokapi.com,FL-TikTok
+host-suffix,tiktok.com,FL-TikTok
+host-suffix,tiktokcdn.com,FL-TikTok
+host-suffix,tiktokv.com,FL-TikTok
