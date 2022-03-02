@@ -1,0 +1,15 @@
+#πÊ‘Ú
+DOMAIN-KEYWORD,aria2,FL-Download
+DOMAIN-SUFFIX,smtp,FL-Download
+USER-AGENT,DownloadService.exe,FL-Download
+USER-AGENT,Folx.exe,FL-Download
+USER-AGENT,NetTransport.exe,FL-Download
+USER-AGENT,Thunder.exe,FL-Download
+USER-AGENT,Transmission.exe,FL-Download
+USER-AGENT,WebTorrentHelper.exe,FL-Download
+USER-AGENT,WebTorrent.exe,FL-Download
+USER-AGENT,Weiyun.exe,FL-Download
+USER-AGENT,aria2c.exe,FL-Download
+USER-AGENT,baidunetdisk.exe,FL-Download
+USER-AGENT,fdm.exe,FL-Download
+USER-AGENT,uTorrent.exe,FL-Download

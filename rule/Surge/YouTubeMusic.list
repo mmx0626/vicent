@@ -1,0 +1,6 @@
+#πÊ‘Ú
+DOMAIN,music.youtube.com,FL-YouTubeMusic
+USER-AGENT,*YouTubeMusic*,FL-YouTubeMusic
+USER-AGENT,*com.google.ios.youtubemusic*,FL-YouTubeMusic
+USER-AGENT,YouTubeMusic*,FL-YouTubeMusic
+USER-AGENT,com.google.ios.youtubemusic*,FL-YouTubeMusic
