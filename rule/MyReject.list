@@ -1,9 +1,0 @@
-#中青去广告
-DOMAIN, sdk.1rtb.com, reject
-DOMAIN-SUFFIX, umengcloud.com, reject
-DOMAIN-SUFFIX, umeng.com, reject
-# 单词开屏app去广告
-DOMAIN-SUFFIX, pangolin-sdk-toutiao.com, reject
-DOMAIN-SUFFIX, pglstatp-toutiao.com, reject
-# 录音机去广告
-DOMAIN, googleads.g.doubleclick.net, reject
