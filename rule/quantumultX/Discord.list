@@ -1,33 +1,28 @@
-# NAME: Discord
-# AUTHOR: blackmatrix7
-# REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-02-04 02:11:38
-# HOST-SUFFIX: 27
-# TOTAL: 27
-HOST-SUFFIX,airhorn.solutions,Discord
-HOST-SUFFIX,airhornbot.com,Discord
-HOST-SUFFIX,bigbeans.solutions,Discord
-HOST-SUFFIX,dis.gd,Discord
-HOST-SUFFIX,discord-activities.com,Discord
-HOST-SUFFIX,discord.co,Discord
-HOST-SUFFIX,discord.com,Discord
-HOST-SUFFIX,discord.design,Discord
-HOST-SUFFIX,discord.dev,Discord
-HOST-SUFFIX,discord.gg,Discord
-HOST-SUFFIX,discord.gift,Discord
-HOST-SUFFIX,discord.gifts,Discord
-HOST-SUFFIX,discord.media,Discord
-HOST-SUFFIX,discord.new,Discord
-HOST-SUFFIX,discord.store,Discord
-HOST-SUFFIX,discord.tools,Discord
-HOST-SUFFIX,discordactivities.com,Discord
-HOST-SUFFIX,discordapp.com,Discord
-HOST-SUFFIX,discordapp.io,Discord
-HOST-SUFFIX,discordapp.net,Discord
-HOST-SUFFIX,discordapp.page.link,Discord
-HOST-SUFFIX,discordcdn.com,Discord
-HOST-SUFFIX,discordmerch.com,Discord
-HOST-SUFFIX,discordpartygames.com,Discord
-HOST-SUFFIX,discordsays.com,Discord
-HOST-SUFFIX,discordstatus.com,Discord
-HOST-SUFFIX,watchanimeattheoffice.com,Discord
+#规则
+host-suffix,airhorn.solutions,FL-Discord
+host-suffix,airhornbot.com,FL-Discord
+host-suffix,bigbeans.solutions,FL-Discord
+host-suffix,dis.gd,FL-Discord
+host-suffix,discord-activities.com,FL-Discord
+host-suffix,discord.co,FL-Discord
+host-suffix,discord.com,FL-Discord
+host-suffix,discord.design,FL-Discord
+host-suffix,discord.dev,FL-Discord
+host-suffix,discord.gg,FL-Discord
+host-suffix,discord.gift,FL-Discord
+host-suffix,discord.gifts,FL-Discord
+host-suffix,discord.media,FL-Discord
+host-suffix,discord.new,FL-Discord
+host-suffix,discord.store,FL-Discord
+host-suffix,discord.tools,FL-Discord
+host-suffix,discordactivities.com,FL-Discord
+host-suffix,discordapp.com,FL-Discord
+host-suffix,discordapp.io,FL-Discord
+host-suffix,discordapp.net,FL-Discord
+host-suffix,discordapp.page.link,FL-Discord
+host-suffix,discordcdn.com,FL-Discord
+host-suffix,discordmerch.com,FL-Discord
+host-suffix,discordpartygames.com,FL-Discord
+host-suffix,discordsays.com,FL-Discord
+host-suffix,discordstatus.com,FL-Discord
+host-suffix,watchanimeattheoffice.com,FL-Discord
