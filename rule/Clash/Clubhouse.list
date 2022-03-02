@@ -1,0 +1,16 @@
+DOMAIN,clubhouse.pubnub.com,FL-Clubhouse
+DOMAIN,clubhouseprod.s3.amazonaws.com,FL-Clubhouse
+DOMAIN-SUFFIX,clubhouse.com,FL-Clubhouse
+DOMAIN-SUFFIX,clubhouseapi.com,FL-Clubhouse
+DOMAIN-SUFFIX,joinclubhouse.com,FL-Clubhouse
+DOMAIN-KEYWORD,clubhouse,FL-Clubhouse
+IP-CIDR,107.155.5.0/24,FL-Clubhouse,no-resolve
+IP-CIDR,128.1.193.0/24,FL-Clubhouse,no-resolve
+IP-CIDR,128.14.208.0/24,FL-Clubhouse,no-resolve
+IP-CIDR,129.227.234.0/24,FL-Clubhouse,no-resolve
+IP-CIDR,129.227.57.0/24,FL-Clubhouse,no-resolve
+IP-CIDR,129.227.71.0/24,FL-Clubhouse,no-resolve
+IP-CIDR,3.0.163.78/32,FL-Clubhouse,no-resolve
+IP-CIDR,52.52.84.170/32,FL-Clubhouse,no-resolve
+IP-CIDR,52.58.56.244/32,FL-Clubhouse,no-resolve
+IP-CIDR,240.1.1.0/24,FL-Clubhouse,no-resolve

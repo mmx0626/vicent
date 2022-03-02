@@ -1,0 +1,14 @@
+DOMAIN-KEYWORD,aria2,FL-Download
+DOMAIN-SUFFIX,smtp,FL-Download
+PROCESS-NAME,DownloadService.exe,FL-Download
+PROCESS-NAME,Folx.exe,FL-Download
+PROCESS-NAME,NetTransport.exe,FL-Download
+PROCESS-NAME,Thunder.exe,FL-Download
+PROCESS-NAME,Transmission.exe,FL-Download
+PROCESS-NAME,WebTorrentHelper.exe,FL-Download
+PROCESS-NAME,WebTorrent.exe,FL-Download
+PROCESS-NAME,Weiyun.exe,FL-Download
+PROCESS-NAME,aria2c.exe,FL-Download
+PROCESS-NAME,baidunetdisk.exe,FL-Download
+PROCESS-NAME,fdm.exe,FL-Download
+PROCESS-NAME,uTorrent.exe,FL-Download

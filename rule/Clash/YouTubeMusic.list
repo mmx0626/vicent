@@ -1,0 +1,5 @@
+DOMAIN,music.youtube.com,FL-YouTubeMusic
+PROCESS-NAME,*YouTubeMusic*,FL-YouTubeMusic
+PROCESS-NAME,*com.google.ios.youtubemusic*,FL-YouTubeMusic
+PROCESS-NAME,YouTubeMusic*,FL-YouTubeMusic
+PROCESS-NAME,com.google.ios.youtubemusic*,FL-YouTubeMusic

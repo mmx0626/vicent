@@ -1,0 +1,5 @@
+DOMAIN-SUFFIX,mfm.video.qq.com,FL-TencentVideo
+DOMAIN-SUFFIX,v.smtcdns.com,FL-TencentVideo
+DOMAIN-SUFFIX,vv.video.qq.com,FL-TencentVideo
+PROCESS-NAME,MOO*,FL-TencentVideo
+PROCESS-NAME,TencentMidasConnect*,FL-TencentVideo
