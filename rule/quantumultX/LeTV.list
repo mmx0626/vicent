@@ -1,19 +1,14 @@
-# NAME: LeTV
-# AUTHOR: blackmatrix7
-# REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-01-18 23:33:29
-# HOST-SUFFIX: 13
-# TOTAL: 13
-HOST-SUFFIX,le.com,LeTV
-HOST-SUFFIX,lecloud.com,LeTV
-HOST-SUFFIX,lelecdn.com,LeTV
-HOST-SUFFIX,lemall.com,LeTV
-HOST-SUFFIX,letv.com,LeTV
-HOST-SUFFIX,letv8.com,LeTV
-HOST-SUFFIX,letvcdn.com,LeTV
-HOST-SUFFIX,letvcloud.com,LeTV
-HOST-SUFFIX,letvimg.com,LeTV
-HOST-SUFFIX,letvlive.com,LeTV
-HOST-SUFFIX,letvstore.com,LeTV
-HOST-SUFFIX,sanguowudi.com,LeTV
-HOST-SUFFIX,videougc.com,LeTV
+#规则
+host-suffix,le.com,FL-LeTV
+host-suffix,lecloud.com,FL-LeTV
+host-suffix,lelecdn.com,FL-LeTV
+host-suffix,lemall.com,FL-LeTV
+host-suffix,letv.com,FL-LeTV
+host-suffix,letv8.com,FL-LeTV
+host-suffix,letvcdn.com,FL-LeTV
+host-suffix,letvcloud.com,FL-LeTV
+host-suffix,letvimg.com,FL-LeTV
+host-suffix,letvlive.com,FL-LeTV
+host-suffix,letvstore.com,FL-LeTV
+host-suffix,sanguowudi.com,FL-LeTV
+host-suffix,videougc.com,FL-LeTV
