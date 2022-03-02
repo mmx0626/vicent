@@ -1,56 +1,55 @@
-# 挖矿
-host, api.onesignal.com, ⛏️ mining
-host, networksdk.ssacdn.com, ⛏️ mining
-host-suffix, newrelic.com, ⛏️ mining
-host, bam.nr-data.net, ⛏️ mining
-host, kyc-backend.dev.pi.app, ⛏️ mining
-host-suffix, pi.app, ⛏️ mining
-host, app-cdn.minepi.com, ⛏️ mining
-host-suffix, minepi.com, ⛏️ mining
-host, nhmp-ssl.usa-west.nicehash.com, ⛏️ mining
-host, nhmp-ssl.usa-east.nicehash.com, ⛏️ mining
-host, nhmp-ssl.eu-west.nicehash.com, ⛏️ mining
-host, nhmp-ssl.eu-north.nicehash.com, ⛏️ mining
-host-suffix, nicehash.com, ⛏️ mining
-host-suffix, hiveon.net, ⛏️ mining
-host-suffix, hiveos.farm, ⛏️ mining
-host-keyword, hiveos, ⛏️ mining
-host-suffix, chia.net, ⛏️ mining
-host-suffix, chia.net, ⛏️ mining
-host-keyword, chia, ⛏️ mining
-host-suffix, hpool.com, ⛏️ mining
-host-suffix, ihpool.com, ⛏️ mining
-host-keyword, hpool, ⛏️ mining
-host-suffix, binance.us, ⛏️ mining
-host-keyword, binance, ⛏️ mining
-host, socialchain.app, ⛏️ mining
-host-suffix, tokenlon.im, ⛏️ mining
-host, self.events.data.microsoft.com, ⛏️ mining
-host-suffix, bannedbook.org, ⛏️ mining
-host, jdsharedresourcescdn.azureedge.net, ⛏️ mining
-HOST, wspri.okex.com,⛏️ mining
-HOST, real.okex.com,⛏️ mining
-HOST-SUFFIX, okex.com,⛏️ mining
-HOST-KEYWORD, okex,⛏️ mining
-HOST-SUFFIX, minepi.com,⛏️ mining
-HOST, dstream.binance.me,⛏️ mining
-HOST-SUFFIX, binance.sg,⛏️ mining
-HOST-SUFFIX, binance.us,⛏️ mining
-HOST-SUFFIX, binance.com,⛏️ mining
-HOST-KEYWORD, binance,⛏️ mining
-HOST, nhmp-ssl.usa-west.nicehash.com,⛏️ mining
-HOST, nhmp-ssl.usa-east.nicehash.com,⛏️ mining
-HOST, nhmp-ssl.eu-west.nicehash.com,⛏️ mining
-HOST, nhmp-ssl.eu-north.nicehash.com,⛏️ mining
-HOST-SUFFIX, nicehash.com,⛏️ mining
-HOST-SUFFIX, hiveon.net,⛏️ mining
-HOST-SUFFIX, hiveos.farm,⛏️ mining
-HOST-KEYWORD, hiveos,⛏️ mining
-HOST-SUFFIX, chia.net,⛏️ mining
-HOST-KEYWORD, chia,⛏️ mining
-HOST-SUFFIX, ihpool.com,⛏️ mining
-HOST-SUFFIX, hpool.com,⛏️ mining
-HOST-SUFFIX, hpool.app,⛏️ mining
-HOST-SUFFIX, hpool.co,⛏️ mining
-HOST-SUFFIX, hpool.in,⛏️ mining
-HOST-KEYWORD, hpool,⛏️ mining
+#规则
+host,api.onesignal.com,FL-Mining
+host,networksdk.ssacdn.com,FL-Mining
+host-suffix,newrelic.com,FL-Mining
+host,bam.nr-data.net,FL-Mining
+host,kyc-backend.dev.pi.app,FL-Mining
+host-suffix,pi.app,FL-Mining
+host,app-cdn.minepi.com,FL-Mining
+host-suffix,minepi.com,FL-Mining
+host,nhmp-ssl.usa-west.nicehash.com,FL-Mining
+host,nhmp-ssl.usa-east.nicehash.com,FL-Mining
+host,nhmp-ssl.eu-west.nicehash.com,FL-Mining
+host,nhmp-ssl.eu-north.nicehash.com,FL-Mining
+host-suffix,nicehash.com,FL-Mining
+host-suffix,hiveon.net,FL-Mining
+host-suffix,hiveos.farm,FL-Mining
+host-keyword,hiveos,FL-Mining
+host-suffix,chia.net,FL-Mining
+host-keyword,chia,FL-Mining
+host-suffix,hpool.com,FL-Mining
+host-suffix,ihpool.com,FL-Mining
+host-keyword,hpool,FL-Mining
+host-suffix,binance.us,FL-Mining
+host-keyword,binance,FL-Mining
+host,socialchain.app,FL-Mining
+host-suffix,tokenlon.im,FL-Mining
+host,self.events.data.microsoft.com,FL-Mining
+host-suffix,bannedbook.org,FL-Mining
+host,jdsharedresourcescdn.azureedge.net,FL-Mining
+host,wspri.okex.com,FL-Mining
+host,real.okex.com,FL-Mining
+host-suffix,okex.com,FL-Mining
+host-keyword,okex,FL-Mining
+host-suffix,minepi.com,FL-Mining
+host,dstream.binance.me,FL-Mining
+host-suffix,binance.sg,FL-Mining
+host-suffix,binance.us,FL-Mining
+host-suffix,binance.com,FL-Mining
+host-keyword,binance,FL-Mining
+host,nhmp-ssl.usa-west.nicehash.com,FL-Mining
+host,nhmp-ssl.usa-east.nicehash.com,FL-Mining
+host,nhmp-ssl.eu-west.nicehash.com,FL-Mining
+host,nhmp-ssl.eu-north.nicehash.com,FL-Mining
+host-suffix,nicehash.com,FL-Mining
+host-suffix,hiveon.net,FL-Mining
+host-suffix,hiveos.farm,FL-Mining
+host-keyword,hiveos,FL-Mining
+host-suffix,chia.net,FL-Mining
+host-keyword,chia,FL-Mining
+host-suffix,ihpool.com,FL-Mining
+host-suffix,hpool.com,FL-Mining
+host-suffix,hpool.app,FL-Mining
+host-suffix,hpool.co,FL-Mining
+host-suffix,hpool.in,FL-Mining
+host-keyword,hpool,FL-Mining
