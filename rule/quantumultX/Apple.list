@@ -1,4 +1,5 @@
 #规则
+host, k128-iosapps.gslb.ksyuncdn.com,FL-Apple
 host-suffix,aaplimg.com,FL-Apple
 host-suffix,apple.co,FL-Apple
 host-suffix,apple.com,FL-Apple
