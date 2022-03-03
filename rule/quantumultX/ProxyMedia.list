@@ -20,7 +20,6 @@ host,d27xxe7juh1us6.cloudfront.net,FL-ProxyMedia
 host,d3196yreox78o9.cloudfront.net,FL-ProxyMedia
 host,dmqdd6hw24ucf.cloudfront.net,FL-ProxyMedia
 host,ktpx.amazon.com,FL-ProxyMedia
-URL-REGEX,^https?:\/\/www\.amazon\.com\/(Amazon-Video|gp\/video)\/,FL-ProxyMedia
 host,gspe1-ssl.ls.apple.com,FL-ProxyMedia
 host,np-edge.itunes.apple.com,FL-ProxyMedia
 host,play-edge.itunes.apple.com,FL-ProxyMedia
