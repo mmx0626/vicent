@@ -1,5 +1,6 @@
 DOMAIN,clubhouse.pubnub.com,FL-Clubhouse
 DOMAIN,clubhouseprod.s3.amazonaws.com,FL-Clubhouse
+DOMAIN,production-clubhouse-link-previews.s3.amazonaws.com,FL-Clubhouse
 DOMAIN-SUFFIX,clubhouse.com,FL-Clubhouse
 DOMAIN-SUFFIX,clubhouseapi.com,FL-Clubhouse
 DOMAIN-SUFFIX,joinclubhouse.com,FL-Clubhouse
