@@ -48,6 +48,7 @@ host-suffix,weixin.qq.com,FL-MyDirect
 host-suffix,qq.com,FL-MyDirect
 host-suffix,waze.com,FL-MyDirect
 host-suffix,plex.tv,FL-MyDirect
+host-suffix,plex.direct,FL-MyDirect
 host,res.youth.cn,FL-MyDirect
 host-suffix,youth.cn,FL-MyDirect
 host,kandian.wkandian.com,FL-MyDirect
@@ -57,4 +58,6 @@ host-suffix,buliang0.tk,FL-MyDirect
 host-suffix,v.smtcdns.com,FL-MyDirect
 host-suffix,vv.video.qq.com,FL-MyDirect
 host-suffix,youku.com,FL-MyDirect
+host-suffix,cloudfront.net,FL-MyDirect
+host-keyword,-ssl.mzstatic.com,FL-MyDirect
 ip-cidr,106.11.0.0/16,FL-MyDirect
