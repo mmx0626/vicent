@@ -15,6 +15,7 @@ DOMAIN-SUFFIX,tg.dev,FL-Telegram
 DOMAIN-SUFFIX,tx.me,FL-Telegram
 DOMAIN-KEYWORD,nicegram,FL-Telegram
 DOMAIN-KEYWORD,telegram,FL-Telegram
+IP-CIDR,5.28.195.0/24,FL-Telegram,no-resolve
 IP-CIDR,109.239.140.0/24,FL-Telegram,no-resolve
 IP-CIDR,149.154.160.0/20,FL-Telegram,no-resolve
 IP-CIDR,185.76.151.0/24,FL-Telegram,no-resolve
