@@ -16,6 +16,7 @@ host-suffix,tg.dev,FL-Telegram
 host-suffix,tx.me,FL-Telegram
 host-keyword,nicegram,FL-Telegram
 host-keyword,telegram,FL-Telegram
+ip-cidr,5.28.195.0/24,FL-Telegram
 ip-cidr,109.239.140.0/24,FL-Telegram
 ip-cidr,149.154.160.0/20,FL-Telegram
 ip-cidr,185.76.151.0/24,FL-Telegram
