@@ -1,3 +1,7 @@
+PROCESS-NAME,*qiyimac,FL-ChinaMedia // 爱奇艺
+PROCESS-NAME,*优酷,FL-ChinaMedia
+PROCESS-NAME,*QQLive,FL-ChinaMedia
+PROCESS-NAME,*芒果TV,FL-ChinaMedia
 DOMAIN,api.iplay.163.com,FL-ChinaMedia
 DOMAIN,aqqmusic.tc.qq.com,FL-ChinaMedia
 DOMAIN,mam.netease.com,FL-ChinaMedia
