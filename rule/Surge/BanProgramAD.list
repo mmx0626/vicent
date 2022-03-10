@@ -904,12 +904,8 @@ IP-CIDR,223.87.182.52/32,FL-BanProgramAD,no-resolve
 DOMAIN-SUFFIX,azabu-u.ac.jp,FL-BanProgramAD
 DOMAIN-SUFFIX,couchcoaster.jp,FL-BanProgramAD
 DOMAIN-SUFFIX,delivery.dmkt-sp.jp,FL-BanProgramAD
-DOMAIN-SUFFIX,ehg-youtube.hitbox.com,FL-BanProgramAD
 DOMAIN-SUFFIX,nichibenren.or.jp,FL-BanProgramAD
 DOMAIN-SUFFIX,nicorette.co.kr,FL-BanProgramAD
-DOMAIN-SUFFIX,ssl-youtube.2cnt.net,FL-BanProgramAD
-DOMAIN-SUFFIX,youtube.112.2o7.net,FL-BanProgramAD
-DOMAIN-SUFFIX,youtube.2cnt.net,FL-BanProgramAD
 DOMAIN-SUFFIX,acsystem.wasu.tv,FL-BanProgramAD
 DOMAIN-SUFFIX,ads.cdn.tvb.com,FL-BanProgramAD
 DOMAIN-SUFFIX,ads.wasu.tv,FL-BanProgramAD
