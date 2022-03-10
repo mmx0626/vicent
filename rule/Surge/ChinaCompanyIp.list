@@ -1,4 +1,4 @@
-geoip,cn,FL-ChinaCompanyIp
+# geoip,cn,FL-ChinaCompanyIp
 IP-CIDR,8.128.0.0/10,FL-ChinaCompanyIp,no-resolve
 IP-CIDR,8.208.0.0/12,FL-ChinaCompanyIp,no-resolve
 IP-CIDR,14.1.112.0/22,FL-ChinaCompanyIp,no-resolve
