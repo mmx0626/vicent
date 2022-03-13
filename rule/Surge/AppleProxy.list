@@ -1,3 +1,10 @@
+PROCESS-NAME,*com.apple.geod,🍏 AppleNews
+DOMAIN,news.iadsdk.apple.com,🍏 AppleNews // Added for: news.iadsdk.apple.com:443
+DOMAIN,stocks-data-service.apple.com,🍏 AppleNews // Added for: stocks-data-service.apple.com:443
+DOMAIN,stocks-sparkline.apple.com,🍏 AppleNews // Added for: stocks-sparkline.apple.com:443
+DOMAIN,stocks-analytics-events.apple.com,🍏 AppleNews // Added for: stocks-analytics-events.apple.com:443
+DOMAIN,gspe19-ssl.ls.apple.com,🍏 AppleNews // Added for: gspe19-ssl.ls.apple.com:443
+DOMAIN,gspe11-ssl.ls.apple.com,🍏 AppleNews // Added for: gspe11-ssl.ls.apple.com:443
 DOMAIN-SUFFIX,podcasts.apple.com,FL-AppleProxy
 DOMAIN,bookkeeper.itunes.apple.com,FL-AppleProxy
 DOMAIN-SUFFIX,megaphone.fm,FL-AppleProxy
