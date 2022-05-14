@@ -1,0 +1,6 @@
+PROCESS-NAME,*QQLive,🎬腾讯视频
+DOMAIN-SUFFIX,mfm.video.qq.com,🎬腾讯视频
+DOMAIN-SUFFIX,v.smtcdns.com,🎬腾讯视频
+DOMAIN-SUFFIX,vv.video.qq.com,🎬腾讯视频
+USER-AGENT,MOO*,🎬腾讯视频
+USER-AGENT,TencentMidasConnect*,🎬腾讯视频
