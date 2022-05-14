@@ -1,9 +1,14 @@
-DOMAIN,music.youtube.com,📹油管视频
 USER-AGENT,*YouTubeMusic*,📹油管视频
 USER-AGENT,*com.google.ios.youtubemusic*,📹油管视频
 USER-AGENT,YouTubeMusic*,📹油管视频
 USER-AGENT,com.google.ios.youtubemusic*,📹油管视频
+USER-AGENT,*youtube*,📹油管视频
+USER-AGENT,YouTube*,📹油管视频
+USER-AGENT,com.google.ios.youtube*,📹油管视频
+DOMAIN-KEYWORD,youtube,📹油管视频
 DOMAIN,yt3.ggpht.com,📹油管视频
+DOMAIN,music.youtube.com,📹油管视频
+DOMAIN-SUFFIX,youtube.com,📹油管视频
 DOMAIN-SUFFIX,ggpht.cn,📹油管视频
 DOMAIN-SUFFIX,ggpht.com,📹油管视频
 DOMAIN-SUFFIX,googlevideo.com,📹油管视频
@@ -175,10 +180,6 @@ DOMAIN-SUFFIX,youtubekids.com,📹油管视频
 DOMAIN-SUFFIX,youtubemobilesupport.com,📹油管视频
 DOMAIN-SUFFIX,yt.be,📹油管视频
 DOMAIN-SUFFIX,ytimg.com,📹油管视频
-DOMAIN-KEYWORD,youtube,📹油管视频
-USER-AGENT,*youtube*,📹油管视频
-USER-AGENT,YouTube*,📹油管视频
-USER-AGENT,com.google.ios.youtube*,📹油管视频
 IP-CIDR,172.110.32.0/21,📹油管视频,no-resolve
 IP-CIDR,216.73.80.0/20,📹油管视频,no-resolve
 IP-CIDR6,2620:120:e000::/40,📹油管视频,no-resolve
