@@ -1,0 +1,17 @@
+DOMAIN-SUFFIX,pscdn.co,🎵Spotify
+DOMAIN-SUFFIX,scdn.co,🎵Spotify
+DOMAIN-SUFFIX,spoti.fi,🎵Spotify
+DOMAIN-SUFFIX,spotify-com.akamaized.net,🎵Spotify
+DOMAIN-SUFFIX,spotify-everywhere.com,🎵Spotify
+DOMAIN-SUFFIX,spotify.design,🎵Spotify
+DOMAIN-SUFFIX,spotifycdn.com,🎵Spotify
+DOMAIN-SUFFIX,spotifycdn.net,🎵Spotify
+DOMAIN-SUFFIX,spotifycharts.com,🎵Spotify
+DOMAIN-SUFFIX,spotifycodes.com,🎵Spotify
+DOMAIN-SUFFIX,spotifyforbrands.com,🎵Spotify
+DOMAIN-SUFFIX,spotifyjobs.com,🎵Spotify
+DOMAIN-KEYWORD,-spotify-com,🎵Spotify
+DOMAIN-KEYWORD,spotify.com,🎵Spotify
+USER-AGENT,*Spotify*,🎵Spotify
+USER-AGENT,Spotify*,🎵Spotify
+IP-CIDR,35.186.224.47/32,🎵Spotify,no-resolve
