@@ -5,6 +5,9 @@ DOMAIN-SUFFIX,clubhouse.com,🏠ClubHouse
 DOMAIN-SUFFIX,clubhouseapi.com,🏠ClubHouse
 DOMAIN-SUFFIX,joinclubhouse.com,🏠ClubHouse
 DOMAIN-KEYWORD,clubhouse,🏠ClubHouse
+DOMAIN,api2.amplitude.com,🏠ClubHouse
+DOMAIN-SUFFIX,clubdeck.app,🏠ClubHouse
+PROCESS-NAME,*Clubdeck,🏠ClubHouse
 IP-CIDR,38.93.228.0/24,🏠ClubHouse,no-resolve
 IP-CIDR,107.155.5.0/24,🏠ClubHouse,no-resolve
 IP-CIDR,128.1.193.0/24,🏠ClubHouse,no-resolve
