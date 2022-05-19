@@ -73,3 +73,5 @@ IP-CIDR,173.242.120.171/32,🚴‍♀️直连通道,no-resolve
 IP-CIDR,198.211.58.210/32,🚴‍♀️直连通道,no-resolve
 IP-CIDR,64.27.14.215/32,🚴‍♀️直连通道,no-resolve
 IP-CIDR,45.61.164.134/32,🚴‍♀️直连通道,no-resolve
+IP-CIDR,140.249.239.0/24,🚴‍♀️直连通道,no-resolve
+IP-CIDR,61.151.165.0/24,🚴‍♀️直连通道,no-resolve
