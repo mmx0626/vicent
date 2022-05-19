@@ -12,6 +12,7 @@ DOMAIN-SUFFIX,spotifyforbrands.com,🎵Spotify
 DOMAIN-SUFFIX,spotifyjobs.com,🎵Spotify
 DOMAIN-KEYWORD,-spotify-com,🎵Spotify
 DOMAIN-KEYWORD,spotify.com,🎵Spotify
+DOMAIN-KEYWORD,spotify,🎵Spotify
 USER-AGENT,*Spotify*,🎵Spotify
 USER-AGENT,Spotify*,🎵Spotify
 IP-CIDR,35.186.224.47/32,🎵Spotify,no-resolve
