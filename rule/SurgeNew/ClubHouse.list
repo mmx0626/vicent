@@ -103,10 +103,11 @@ IP-CIDR,45.40.48.11/32,🏠ClubHouse,no-resolve
 IP-CIDR,45.40.48.114/32,🏠ClubHouse,no-resolve
 IP-CIDR,50.17.126.121/32,🏠ClubHouse,no-resolve
 IP-CIDR,50.18.128.22/32,🏠ClubHouse,no-resolve
+IP-CIDR,52.28.239.0/24,🏠ClubHouse,no-resolve
+IP-CIDR,52.52.84.0/24,🏠ClubHouse,no-resolve
+IP-CIDR,52.58.56.244/32,🏠ClubHouse,no-resolve
 IP-CIDR,52.178.26.110/32,🏠ClubHouse,no-resolve
 IP-CIDR,52.194.158.59/32,🏠ClubHouse,no-resolve
 IP-CIDR,52.221.46.208/32,🏠ClubHouse,no-resolve
-IP-CIDR,52.52.84.0/24,🏠ClubHouse,no-resolve
-IP-CIDR,52.58.56.244/32,🏠ClubHouse,no-resolve
 IP-CIDR,54.178.26.110/32,🏠ClubHouse,no-resolve
 IP-CIDR,69.28.51.148/32,🏠ClubHouse,no-resolve
