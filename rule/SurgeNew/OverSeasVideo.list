@@ -204,7 +204,6 @@ USER-AGENT,SoundCloud*,🌍国外媒体
 DOMAIN-SUFFIX,p-cdn.us,🌍国外媒体
 DOMAIN-SUFFIX,sndcdn.com,🌍国外媒体
 DOMAIN-SUFFIX,soundcloud.com,🌍国外媒体
-DOMAIN-SUFFIX,spotify.com,🌍国外媒体
 USER-AGENT,TIDAL*,🌍国外媒体
 DOMAIN-SUFFIX,tidal-cms.s3.amazonaws.com,🌍国外媒体
 DOMAIN-SUFFIX,tidal.com,🌍国外媒体
