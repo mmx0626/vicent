@@ -56,6 +56,7 @@ DOMAIN-SUFFIX,alipaylog.com,🚴‍♀️直连通道
 DOMAIN-SUFFIX,alipayobjects.com,🚴‍♀️直连通道
 DOMAIN-SUFFIX,ifaa.org.cn,🚴‍♀️直连通道
 DOMAIN-SUFFIX,sinopayment.com.cn,🚴‍♀️直连通道
+DOMAIN,download.maxmind.com,🚴‍♀️直连通道
 IP-CIDR,10.0.0.0/8,🚴‍♀️直连通道,no-resolve
 IP-CIDR,100.64.0.0/10,🚴‍♀️直连通道,no-resolve
 IP-CIDR,127.0.0.0/8,🚴‍♀️直连通道,no-resolve
