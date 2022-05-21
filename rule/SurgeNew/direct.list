@@ -1,7 +1,12 @@
 PROCESS-NAME,*Thunder,🚴‍♀️直连通道
-DOMAIN,szlong.weixin.qq.com,🚴‍♀️直连通道
+PROCESS-NAME,*WeChat,🚴‍♀️直连通道
+DOMAIN,szshort.weixin.qq.com,🚴‍♀️直连通道
+DOMAIN,szshort.weixin.qq.com,🚴‍♀️直连通道
+DOMAIN,szminorshort.weixin.qq.com,🚴‍♀️直连通道
 DOMAIN,wxapp.tc.qq.com,🚴‍♀️直连通道
 DOMAIN,wx.qq.com.com,🚴‍♀️直连通道
+DOMAIN-SUFFIX,weixin.qq.com,🚴‍♀️直连通道
+DOMAIN-SUFFIX,qq.com,🚴‍♀️直连通道
 DOMAIN,forevan.synology.me,🚴‍♀️直连通道
 DOMAIN,kandian.wkandian.com,🚴‍♀️直连通道
 DOMAIN,res.youth.cn,🚴‍♀️直连通道
@@ -24,8 +29,8 @@ DOMAIN-SUFFIX,synology.com,🚴‍♀️直连通道
 DOMAIN-SUFFIX,fovicen.xyz,🚴‍♀️直连通道
 DOMAIN-SUFFIX,fovicen.com,🚴‍♀️直连通道
 DOMAIN-SUFFIX,cloudflare.com,🚴‍♀️直连通道
-DOMAIN-SUFFIX,weixin.qq.com,🚴‍♀️直连通道
-DOMAIN-SUFFIX,qq.com,🚴‍♀️直连通道
+DOMAIN-SUFFIX,cloudflare-dns.com,🚴‍♀️直连通道
+DOMAIN-KEYWORD,cloudflare,🚴‍♀️直连通道
 DOMAIN-SUFFIX,plex.tv,🚴‍♀️直连通道
 DOMAIN-SUFFIX,plex.direct,🚴‍♀️直连通道
 DOMAIN-SUFFIX,youth.cn,🚴‍♀️直连通道
@@ -77,4 +82,3 @@ IP-CIDR,140.249.239.0/24,🚴‍♀️直连通道,no-resolve
 IP-CIDR,61.151.165.0/24,🚴‍♀️直连通道,no-resolve
 IP-CIDR,101.89.15.0/24,🚴‍♀️直连通道,no-resolve
 IP-CIDR,239.255.255.250/32,🚴‍♀️直连通道,no-resolve
-PROCESS-NAME,*WeChat,🚴‍♀️直连通道
