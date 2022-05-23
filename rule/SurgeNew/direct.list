@@ -59,6 +59,7 @@ DOMAIN-SUFFIX,ifaa.org.cn,🚴‍♀️直连通道
 DOMAIN-SUFFIX,sinopayment.com.cn,🚴‍♀️直连通道
 DOMAIN-SUFFIX,racknerd.com,🚴‍♀️直连通道
 DOMAIN-SUFFIX,branch.io,🚴‍♀️直连通道
+DOMAIN-SUFFIX,tiny4.org,🚴‍♀️直连通道
 IP-CIDR,10.0.0.0/8,🚴‍♀️直连通道,no-resolve
 IP-CIDR,100.64.0.0/10,🚴‍♀️直连通道,no-resolve
 IP-CIDR,127.0.0.0/8,🚴‍♀️直连通道,no-resolve
