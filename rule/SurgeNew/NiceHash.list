@@ -8,4 +8,4 @@ DOMAIN-SUFFIX,hiveos.farm,⛏️币圈服务
 DOMAIN-KEYWORD,hiveos,⛏️币圈服务
 DOMAIN-SUFFIX,chia.net,⛏️币圈服务
 DOMAIN-KEYWORD,chia,⛏️币圈服务
-IP-CIDR,34.111.64.0/24,⛏️币圈服务,no-resolve
+IP-CIDR,34.111.64.157/32,⛏️币圈服务,no-resolve
