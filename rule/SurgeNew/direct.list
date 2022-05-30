@@ -1,8 +1,6 @@
 PROCESS-NAME,*Thunder,🚴‍♀️直连通道
 PROCESS-NAME,*WeChat,🚴‍♀️直连通道
 DOMAIN-SUFFIX,maxmind.com,🚴‍♀️直连通道
-DOMAIN,szshort.weixin.qq.com,🚴‍♀️直连通道
-DOMAIN,szminorshort.weixin.qq.com,🚴‍♀️直连通道
 DOMAIN,wxapp.tc.qq.com,🚴‍♀️直连通道
 DOMAIN,wx.qq.com.com,🚴‍♀️直连通道
 DOMAIN-SUFFIX,weixin.qq.com,🚴‍♀️直连通道
