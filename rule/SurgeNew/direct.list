@@ -51,6 +51,7 @@ DOMAIN-SUFFIX,sinopayment.com.cn,🚴‍♀️直连通道
 DOMAIN-SUFFIX,racknerd.com,🚴‍♀️直连通道
 DOMAIN-SUFFIX,branch.io,🚴‍♀️直连通道
 DOMAIN-SUFFIX,jetbrains.com,🚴‍♀️直连通道
+DOMAIN-SUFFIX,oray.net,🚴‍♀️直连通道
 IP-CIDR,10.0.0.0/8,🚴‍♀️直连通道,no-resolve
 IP-CIDR,100.64.0.0/10,🚴‍♀️直连通道,no-resolve
 IP-CIDR,127.0.0.0/8,🚴‍♀️直连通道,no-resolve
