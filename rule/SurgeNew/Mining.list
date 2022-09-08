@@ -25,4 +25,4 @@ DOMAIN-SUFFIX,hpool.app,⛏️币圈服务
 DOMAIN-SUFFIX,hpool.co,⛏️币圈服务
 DOMAIN-SUFFIX,hpool.in,⛏️币圈服务
 DOMAIN-KEYWORD,hpool,⛏️币圈服务
-IP-CIDR, 34.120.0.210/32,⛏️币圈服务,no-resolve
+IP-CIDR,34.120.0.210/32,⛏️币圈服务,no-resolve
