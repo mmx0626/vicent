@@ -1,3 +1,7 @@
+DOMAIN,ap-oversea-tls.agora.io,🚴‍♀️直连通道
+DOMAIN,ap-oversea.agora.io,🚴‍♀️直连通道
+DOMAIN,ap-oversea2.agora.io,🚴‍♀️直连通道
+DOMAIN,report-oversea.agora.io,🚴‍♀️直连通道
 PROCESS-NAME,*Thunder,🚴‍♀️直连通道
 PROCESS-NAME,*WeChat,🚴‍♀️直连通道
 DOMAIN-SUFFIX,maxmind.com,🚴‍♀️直连通道
