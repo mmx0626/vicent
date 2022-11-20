@@ -1,17 +1,3 @@
-DOMAIN,ap-oversea-tls.agora.io,🚴‍♀️直连通道
-DOMAIN,ap-oversea.agora.io,🚴‍♀️直连通道
-DOMAIN,ap-oversea2.agora.io,🚴‍♀️直连通道
-DOMAIN,report-oversea.agora.io,🚴‍♀️直连通道
-DOMAIN,clubhouse.pubnub.com,🏠ClubHouse
-DOMAIN,clubhouseprod.s3.amazonaws.com,🏠ClubHouse
-DOMAIN,production-clubhouse-link-previews.s3.amazonaws.com,🏠ClubHouse
-DOMAIN-SUFFIX,clubhouse.com,🏠ClubHouse
-DOMAIN-SUFFIX,clubhouseapi.com,🏠ClubHouse
-DOMAIN-SUFFIX,joinclubhouse.com,🏠ClubHouse
-DOMAIN-KEYWORD,clubhouse,🏠ClubHouse
-DOMAIN,api2.amplitude.com,🏠ClubHouse
-DOMAIN-SUFFIX,clubdeck.app,🏠ClubHouse
-PROCESS-NAME,*Clubdeck,🏠ClubHouse
 IP-CIDR,13.248.188.0/24,🏠ClubHouse,no-resolve
 IP-CIDR,38.93.228.0/24,🏠ClubHouse,no-resolve
 IP-CIDR,107.155.5.0/24,🏠ClubHouse,no-resolve
