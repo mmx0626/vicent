@@ -58,3 +58,4 @@ DOMAIN-SUFFIX,cphub.net,🚀高速通道
 DOMAIN-SUFFIX,cloudfront.net,🚀高速通道
 DOMAIN-SUFFIX,coursera.org,🚀高速通道
 DOMAIN-SUFFIX,vercel.app,🚀高速通道
+IP-CIDR,64.27.14.215/32,🚴‍♀️直连通道,no-resolve
