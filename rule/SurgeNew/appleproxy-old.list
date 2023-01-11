@@ -11,6 +11,7 @@ DOMAIN,stocks-analytics-events.apple.com,🍏苹果代理
 DOMAIN,gspe19-ssl.ls.apple.com,🍏苹果代理
 DOMAIN,gspe11-ssl.ls.apple.com,🍏苹果代理
 DOMAIN-SUFFIX,podcasts.apple.com,🍏苹果代理
+DOMAIN-SUFFIX,buzzsprout.com,🍏苹果代理
 DOMAIN,bookkeeper.itunes.apple.com,🍏苹果代理
 DOMAIN-SUFFIX,megaphone.fm,🍏苹果代理
 DOMAIN-SUFFIX,podtrac.com,🍏苹果代理
