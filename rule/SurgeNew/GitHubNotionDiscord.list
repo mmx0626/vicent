@@ -14,6 +14,7 @@ DOMAIN-SUFFIX,notion.com,🔜Notion
 DOMAIN-SUFFIX,notion.new,🔜Notion
 DOMAIN-SUFFIX,notion.site,🔜Notion
 DOMAIN-SUFFIX,notion.so,🔜Notion
+DOMAIN,http-inputs-notion.splunkcloud.com,🔜Notion
 DOMAIN-SUFFIX,airhorn.solutions,🔜Discord
 DOMAIN-SUFFIX,airhornbot.com,🔜Discord
 DOMAIN-SUFFIX,bigbeans.solutions,🔜Discord
